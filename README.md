@@ -23,4 +23,6 @@
 
 `npm install --save-dev optimize-css-assets-webpack-plugin` 
 
-`npm install --save-dev mini-css-extract-plugin` 
+`npm install --save-dev mini-css-extract-plugin`
+
+`npm install compression-webpack-plugin --save-dev`
